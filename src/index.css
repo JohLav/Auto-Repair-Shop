@@ -1,0 +1,17 @@
+body {
+  font-family: "Roboto", sans-serif !important;
+}
+
+table td,
+table th {
+  padding: 12px 20px;
+  text-align: center;
+}
+
+th .menu {
+  visibility: hidden;
+}
+
+th:hover .menu {
+  visibility: visible;
+}
